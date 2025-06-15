@@ -4,7 +4,7 @@ Hi 👋 My name is Addison Douglas
 Software Engineer
 -----------------
 
-Currently, I am pursuing my bachelor's degree in computer science and software engineering from the University of Washington Bothell.
+Currently, I am pursuing my bachelor's degree in computer science and software engineering from the University of Washington.
 
 * 🌍  I'm based in The Greater Seattle Area
 * 🖥️  See my portfolio at [https://addisondouglas.net/](https://addisondouglas.net/)
